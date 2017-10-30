@@ -1,0 +1,27 @@
+Case 
+Basic		Time(seconds)
+4947		0
+Case 
+Basic		Time(seconds)
+4950		0
+Case 
+Basic		Time(seconds)
+4950		0
+Case 
+Basic		Time(seconds)
+10		0
+Case 
+Basic		Time(seconds)
+45		0
+Case 
+Basic		Time(seconds)
+10		0
+Case 
+Basic		Time(seconds)
+9		0
+Case 
+Basic		Time(seconds)
+44		0
+Case 
+Basic		Time(seconds)
+799865519		6.281

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1458911505 source:c:\users\user\documents\qut\cab301\cab301 tutorial\a1\assignment1cb\test.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+
+1459759026 source:c:\users\user\documents\qut\cab301\assignment 1 n9602976 (to hand in)\assignment1cb\test.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+
+1459763627 source:c:\users\user\documents\qut\cab301\assignment 1 n9602976 (to hand in)\assignment1cb\efficient.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
+1459761712 source:c:\users\user\documents\qut\cab301\assignment 1 n9602976 (to hand in)\assignment1cb\normal.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
