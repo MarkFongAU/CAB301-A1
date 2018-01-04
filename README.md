@@ -1,3 +1,3 @@
 # CAB301-A1
 
-Algorithm analysis assignment.
+An Algorithm analysis assgnment on Bubblesort algorithm with scripts build with C++.
